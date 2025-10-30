@@ -1,0 +1,26 @@
+{
+    // File Browser
+    // @jupyterlab/filebrowser-extension:browser
+    // File Browser settings.
+    // *****************************************
+
+    // Filter directories
+    // Whether to apply the search on directories
+    "filterDirectories": true,
+
+    // Navigate to current directory
+    // Whether to automatically navigate to a document's current directory
+    "navigateToCurrentDirectory": false,
+
+    // Show hidden files
+    // Whether to show hidden files
+    "showHiddenFiles": false,
+
+    // Show last modified column
+    // Whether to show the last modified column
+    "showLastModifiedColumn": true,
+
+    // Filter on file name with a fuzzy search
+    // Whether to apply fuzzy algorithm while filtering on file names
+    "useFuzzyFilter": true
+}

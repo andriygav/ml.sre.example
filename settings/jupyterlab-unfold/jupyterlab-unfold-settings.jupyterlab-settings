@@ -1,0 +1,10 @@
+{
+    // jupyterlab-unfold settings
+    // jupyterlab-unfold:jupyterlab-unfold-settings
+    // Settings for the JupyterLab-unfold extension.
+    // *********************************************
+
+    // Single Click To Unfold
+    // Whether a single click triggers an (un)fold.
+    "singleClickToUnfold": false
+}
